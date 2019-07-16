@@ -1,6 +1,6 @@
 //ActiveNotes
 function goExampleNote() {
-    location.href = 'note1.html';
+    location.href = 'Note1.html';
 }
 //ActiveNotes
 function goHome(){
